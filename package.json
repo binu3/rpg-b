@@ -1,0 +1,24 @@
+{
+  "name": "rpg-b",
+  "version": "1.0.0",
+  "description": "Simple Random password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binu3/rpg-b.git"
+  },
+  "keywords": [
+    "Number",
+    "Symbol",
+    "Alphabet"
+  ],
+  "author": "Binu S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binu3/rpg-b/issues"
+  },
+  "homepage": "https://github.com/binu3/rpg-b#readme"
+}
